@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/skyfeyd/package.json.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "skyfeyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyfeyd/package.json/issues"
+  },
+  "homepage": "https://github.com/skyfeyd/package.json#readme"
+}
