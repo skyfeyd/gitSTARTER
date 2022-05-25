@@ -1,9 +1,13 @@
-<h1>Welcome to my starter package</h1>
+<h1>Starter pack</h1>
 
-To start your integration project go ahead 
+Welcome to this starter pack for front end developers
 
-<code>npm start</code>
+to init the project
 
-Then to start Sass
+<code> npm install </code>
 
-<code>npm run scss</code>
+then lauch sass
+
+<code>npm run scss </code>
+
+enjoy! :rocket:

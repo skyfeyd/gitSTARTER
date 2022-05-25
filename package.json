@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "scss": "sass --watch style.scss:style.css",
-    "start": "mkdir img && mkdir js && mkdir abstract && mkdir components && mkdir layout && cd js && touch app.js && cd.. && cd abstract && touch _mixins.scss && touch _variables.scss && cd.. && cd components && touch _buttons.scss &&  cd.. && cd layout && touch body.scss && cd.. && touch index.html && touch style.scss && touch style.css"
+    "scss": "sass --watch style.scss:style.css"
   },
   "repository": {
     "type": "git",
