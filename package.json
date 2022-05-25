@@ -1,17 +1,19 @@
 {
-  "name": "test",
+  "name": "skyfeyd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "scss": "sass --watch style.scss:style.css",
+    "start": "touch index.html && touch style.scss && touch style.css"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/skyfeyd/package.json.git"
   },
   "keywords": [
-    "test"
+    "skyfeyd"
   ],
   "author": "skyfeyd",
   "license": "ISC",
