@@ -1,6 +1,6 @@
 {
   "name": "skyfeyd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/skyfeyd/package.json/issues"
   },
-  "homepage": "https://github.com/skyfeyd/package.json#readme"
+  "homepage": "https://github.com/skyfeyd/Starter-Package#readme"
 }
