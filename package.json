@@ -6,11 +6,11 @@
   "scripts": {
     "test": "test",
     "scss": "sass --watch style.scss:style.css",
-    "start": "touch index.html && touch style.scss && touch style.css"
+    "start": "mkdir img && mkdir js && mkdir abstract && mkdir components && mkdir layout && cd js && touch app.js && cd.. && cd abstract && touch _mixins.scss && touch _variables.scss && cd.. && cd components && touch _buttons.scss &&  cd.. && cd layout && touch body.scss && cd.. && touch index.html && touch style.scss && touch style.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/skyfeyd/package.json.git"
+    "url": "git@github.com:skyfeyd/Starter-Package.git"
   },
   "keywords": [
     "skyfeyd"
