@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "start": "sass --watch style.scss:style.css"
+    "scss": "sass --watch style.scss:style.css"
   },
   "repository": {
     "type": "git",
